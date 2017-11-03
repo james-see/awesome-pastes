@@ -8,6 +8,7 @@ list of all the pastebins across all protocols (Tor, ZeroNet, etc.)
 ## Etherpads
 
 * [pad.riseup.net](http://5jp7xtmox6jyoqd5.onion/) _served over Tor protocol_
+* [https://edupad.ch](https://edupad.ch) education focused collaboration and pastes
 
 ## code runners as well as paste
 
