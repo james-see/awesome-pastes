@@ -17,6 +17,7 @@ list of all the pastebins across all protocols (Tor, ZeroNet, etc.)
 ## Specialty
 
 * [write.as](https://write.as/new)
+* [termbin.com](http://termbin.com) example http://termbin.com/5opq paste from terminal using `echo test | nc termbin.com 9999`
 
 ## UNCATEGORIZED
 
