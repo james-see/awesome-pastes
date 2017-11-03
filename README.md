@@ -15,6 +15,7 @@ list of all the pastebins across all protocols (Tor, ZeroNet, etc.)
 
 * [ideone.com](https://ideone.com) _public list of recent code snippets_
 * [codepen.io](https://codepen.io)
+* [codepad.org](http://codepad.org) _public list of recent code snippets_
 
 ## Specialty
 
