@@ -16,6 +16,7 @@ list of all the pastebins across all protocols (Tor, ZeroNet, etc.)
 
 ## UNCATEGORIZED
 
+* [privatebin.net](https://privatebin.net)
 * [codepad.org](http://codepad.org)
 * [mysticpaste.com](http://mysticpaste.com)
 * [etherpad.com](http://etherpad.com)
