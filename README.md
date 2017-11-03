@@ -69,6 +69,7 @@ list of all the pastebins across all protocols (Tor, ZeroNet, etc.)
 * [paste.org](http://paste.org)
 * [http://pastebin.org](http://pastebin.org)
 * [http://paste-it.net](http://paste-it.net)
+* [https://www.pastefs.com](https://www.pastefs.com)
 
 ### License   
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
