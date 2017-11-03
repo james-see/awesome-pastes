@@ -9,7 +9,7 @@ list of all the pastebins across all protocols (Tor, ZeroNet, etc.)
 
 * [pad.riseup.net](http://5jp7xtmox6jyoqd5.onion/) _served over Tor protocol_
 
-## MISC.
+## UNCATEGORIZED
 
 * [codepad.org](codepad.org)
 * [cl1p.net](cl1p.net)
