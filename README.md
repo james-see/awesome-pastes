@@ -3,6 +3,7 @@ list of all the pastebins across all protocols (Tor, ZeroNet, etc.)
 
 ## Ghostbins
 
+* [ghostbin.org](https://ghostbin.org)
 * [0-1.party](https://0-1.party)
 
 ## Etherpads
