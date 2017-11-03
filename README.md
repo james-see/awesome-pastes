@@ -20,6 +20,7 @@ list of all the pastebins across all protocols (Tor, ZeroNet, etc.)
 
 ## UNCATEGORIZED
 
+* [zerobin](http://sebsauvage.net/paste/) _not https_
 * [privatebin.net](https://privatebin.net)
 * [codepad.org](http://codepad.org)
 * [mysticpaste.com](http://mysticpaste.com)
