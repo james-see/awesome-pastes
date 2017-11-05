@@ -27,6 +27,10 @@ list of all the pastebins across all protocols (Tor, ZeroNet, etc.)
 * [NullPaste](http://169.239.182.36:43110/1MgHVPCE1ve6QfKrgsqCURzRj72HrRWioz)
 * [PastePr](http://169.239.182.36:43110/1PasteprZgQiYNcGGrAYrTwmTxsAAqxx6A)
 
+## Tor Pastebins
+
+* [Zerobin](http://zerobinqmdqd236y.onion/)
+
 ## UNCATEGORIZED
 
 * [0bin](https://0bin.net) _completely in python and pip_
