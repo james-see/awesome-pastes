@@ -22,6 +22,11 @@ list of all the pastebins across all protocols (Tor, ZeroNet, etc.)
 * [write.as](https://write.as/new)
 * [termbin.com](http://termbin.com) example http://termbin.com/5opq paste from terminal using `echo test | nc termbin.com 9999`
 
+## Zeronet
+
+* [NullPaste](http://169.239.182.36:43110/1MgHVPCE1ve6QfKrgsqCURzRj72HrRWioz)
+* [PastePr](http://169.239.182.36:43110/1PasteprZgQiYNcGGrAYrTwmTxsAAqxx6A)
+
 ## UNCATEGORIZED
 
 * [0bin](https://0bin.net) _completely in python and pip_
