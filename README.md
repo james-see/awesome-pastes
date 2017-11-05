@@ -30,6 +30,7 @@ list of all the pastebins across all protocols (Tor, ZeroNet, etc.)
 ## Tor Pastebins
 
 * [Zerobin](http://zerobinqmdqd236y.onion/)
+* [StrongHold](http://nzxj65x32vh2fkhk.onion/)
 
 ## UNCATEGORIZED
 
