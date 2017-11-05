@@ -22,17 +22,21 @@ list of all the pastebins across all protocols (Tor, ZeroNet, etc.)
 * [write.as](https://write.as/new)
 * [termbin.com](http://termbin.com) example http://termbin.com/5opq paste from terminal using `echo test | nc termbin.com 9999`
 
-## Zeronet
+## Zeronet-based Pastebins
 
 * [NullPaste](http://169.239.182.36:43110/1MgHVPCE1ve6QfKrgsqCURzRj72HrRWioz)
 * [PastePr](http://169.239.182.36:43110/1PasteprZgQiYNcGGrAYrTwmTxsAAqxx6A)
 
-## Tor Pastebins
+## Tor-based Pastebins
 
 * [Zerobin](http://zerobinqmdqd236y.onion/)
 * [StrongHold](http://nzxj65x32vh2fkhk.onion/)
 * [Joshua's Paste](http://hu4pipih5ngipm2p.onion/pastes/post.php)
 * [DeepPaste](http://4m6omb3gmrmnwzxi.onion/)
+
+## i2p-based Pastebins
+
+* [zerobin.i2p](http://zerobin.i2p)
 
 ## UNCATEGORIZED
 
