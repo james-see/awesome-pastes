@@ -32,6 +32,7 @@ list of all the pastebins across all protocols (Tor, ZeroNet, etc.)
 * [Zerobin](http://zerobinqmdqd236y.onion/)
 * [StrongHold](http://nzxj65x32vh2fkhk.onion/)
 * [Joshua's Paste](http://hu4pipih5ngipm2p.onion/pastes/post.php)
+* [DeepPaste](http://4m6omb3gmrmnwzxi.onion/)
 
 ## UNCATEGORIZED
 
