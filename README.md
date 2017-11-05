@@ -33,6 +33,7 @@ list of all the pastebins across all protocols (Tor, ZeroNet, etc.)
 * [StrongHold](http://nzxj65x32vh2fkhk.onion/)
 * [Joshua's Paste](http://hu4pipih5ngipm2p.onion/pastes/post.php)
 * [DeepPaste](http://4m6omb3gmrmnwzxi.onion/)
+* [Another Zerobin](http://2pdkdy3eo552mpiz.onion/)
 
 ## i2p-based Pastebins
 
