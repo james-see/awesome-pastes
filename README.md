@@ -20,6 +20,7 @@ list of all the pastebins across all protocols (Tor, ZeroNet, etc.)
 ## Specialty
 
 * [write.as](https://write.as/new)
+* [https://www.paste.sh](https://www.paste.sh)
 * [termbin.com](http://termbin.com) example http://termbin.com/5opq paste from terminal using `echo test | nc termbin.com 9999`
 
 ## Zeronet-based Pastebins
@@ -89,6 +90,9 @@ list of all the pastebins across all protocols (Tor, ZeroNet, etc.)
 * [http://pastebin.org](http://pastebin.org)
 * [http://paste-it.net](http://paste-it.net)
 * [https://www.pastefs.com](https://www.pastefs.com)
+* [http://pasted.co](http://pasted.co)
+* [http://clipboard.space](http://clipboard.space)
+* [https://paste.ee/](https://paste.ee/)
 
 ### License   
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
