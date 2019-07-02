@@ -68,7 +68,7 @@ list of all the pastebins across all protocols (Tor, ZeroNet, etc.)
 * [ivpaste.com](http://ivpaste.com)
 * [gist.github.com](http://gist.github.com)
 * [paste2.org](http://paste2.org)
-* [pastee.org](http://pastee.org)
+* [pastee.org](http://pastee.org) DEAD
 * [pastebin.fr](http://pastebin.fr)
 * [heypasteit.com](http://heypasteit.com)
 * [pastebin.ru](http://pastebin.ru)
