@@ -3,7 +3,8 @@
     "Description": "[![Awesome](https://awesome.re/badge.svg)](https://github.com/jamesacampbell/awesome-pastes)   \nlist of all the pastebins across all protocols (Tor, ZeroNet, etc.)",
     "Ghostbins": [
       "[ghostbin.org](https://ghostbin.org)",
-      "[0-1.party](https://0-1.party)"
+      "[0-1.party](https://0-1.party)",
+      "[klgrth.io](https://pst.klgrth.io/)"
     ],
     "Etherpads": [
       "[pad.riseup.net](http://5jp7xtmox6jyoqd5.onion/) _served over Tor protocol_",
