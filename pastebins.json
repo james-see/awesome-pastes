@@ -1,0 +1,40 @@
+{
+  "awesome-pastes  ": {
+    "Description": "[![Awesome](https://awesome.re/badge.svg)](https://github.com/jamesacampbell/awesome-pastes)   \nlist of all the pastebins across all protocols (Tor, ZeroNet, etc.)",
+    "Ghostbins": [
+      "[ghostbin.org](https://ghostbin.org)",
+      "[0-1.party](https://0-1.party)"
+    ],
+    "Etherpads": [
+      "[pad.riseup.net](http://5jp7xtmox6jyoqd5.onion/) _served over Tor protocol_",
+      "[https://edupad.ch](https://edupad.ch) education focused collaboration and pastes"
+    ],
+    "code runners as well as paste": [
+      "[ideone.com](https://ideone.com) _public list of recent code snippets_",
+      "[codepen.io](https://codepen.io)",
+      "[codepad.org](http://codepad.org) _public list of recent code snippets_"
+    ],
+    "Specialty": [
+      "[write.as](https://write.as/new)",
+      "[https://www.paste.sh](https://www.paste.sh)",
+      "[termbin.com](http://termbin.com) example http://termbin.com/5opq paste from terminal using `echo test | nc termbin.com 9999`"
+    ],
+    "Zeronet-based Pastebins": [
+      "[NullPaste](http://169.239.182.36:43110/1MgHVPCE1ve6QfKrgsqCURzRj72HrRWioz)",
+      "[PastePr](http://169.239.182.36:43110/1PasteprZgQiYNcGGrAYrTwmTxsAAqxx6A)"
+    ],
+    "Tor-based Pastebins": [
+      "[Zerobin](http://zerobinqmdqd236y.onion/)",
+      "[StrongHold](http://nzxj65x32vh2fkhk.onion/)",
+      "[Joshua's Paste](http://hu4pipih5ngipm2p.onion/pastes/post.php)",
+      "[DeepPaste](http://4m6omb3gmrmnwzxi.onion/)",
+      "[Another Zerobin](http://2pdkdy3eo552mpiz.onion/)"
+    ],
+    "i2p-based Pastebins": [
+      "[zerobin.i2p](http://zerobin.i2p)"
+    ],
+    "UNCATEGORIZED": {
+      "License   ": "[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)"
+    }
+  }
+}
