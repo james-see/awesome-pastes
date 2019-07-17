@@ -47,6 +47,7 @@ list of all the pastebins across all protocols (Tor, ZeroNet, etc.)
 
 ## UNCATEGORIZED
 
+* [defuse.ca](https://defuse.ca/pastebin.htm)
 * [hatebin](https://hatebin.com)
 * [0bin](https://0bin.net) _completely in python and pip_
 * [zerobin](http://sebsauvage.net/paste/) _not https_
