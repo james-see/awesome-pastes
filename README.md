@@ -1,8 +1,8 @@
-# awesome-pastes  
+# awesome-pastes
 
 ## Description
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/jamesacampbell/awesome-pastes)   
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/jamesacampbell/awesome-pastes)
 list of all the pastebins across all protocols (Tor, ZeroNet, etc.)
 
 ## Ghostbins
@@ -21,12 +21,14 @@ list of all the pastebins across all protocols (Tor, ZeroNet, etc.)
 * [ideone.com](https://ideone.com) _public list of recent code snippets_
 * [codepen.io](https://codepen.io)
 * [codepad.org](http://codepad.org) _public list of recent code snippets_
+* [controlc.com](https://controlc.com) _pastes indexed by google_
+* [repl.it]
 
 ## Specialty
 
 * [write.as](https://write.as/new)
 * [https://www.paste.sh](https://www.paste.sh)
-* [termbin.com](http://termbin.com) example http://termbin.com/5opq paste from terminal using `echo test | nc termbin.com 9999`
+* [termbin.com](http://termbin.com) example _termbin.com/5opq_ paste from terminal using `echo test | nc termbin.com 9999`
 
 ## Zeronet-based Pastebins
 
@@ -50,7 +52,7 @@ list of all the pastebins across all protocols (Tor, ZeroNet, etc.)
 * [defuse.ca](https://defuse.ca/pastebin.htm)
 * [hatebin](https://hatebin.com)
 * [0bin](https://0bin.net) _completely in python and pip_
-* [zerobin](http://sebsauvage.net/paste/) _not https_
+* [zerobin](https://sebsauvage.net/paste/)
 * [privatebin.net](https://privatebin.net)
 * [codepad.org](http://codepad.org)
 * [mysticpaste.com](http://mysticpaste.com)
@@ -101,5 +103,6 @@ list of all the pastebins across all protocols (Tor, ZeroNet, etc.)
 * [http://clipboard.space](http://clipboard.space)
 * [https://paste.ee/](https://paste.ee/)
 
-### License   
+### License
+
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

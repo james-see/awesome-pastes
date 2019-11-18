@@ -1,6 +1,6 @@
 {
-  "awesome-pastes  ": {
-    "Description": "[![Awesome](https://awesome.re/badge.svg)](https://github.com/jamesacampbell/awesome-pastes)   \nlist of all the pastebins across all protocols (Tor, ZeroNet, etc.)",
+  "awesome-pastes": {
+    "Description": "[![Awesome](https://awesome.re/badge.svg)](https://github.com/jamesacampbell/awesome-pastes)\nlist of all the pastebins across all protocols (Tor, ZeroNet, etc.)",
     "Ghostbins": [
       "[ghostbin.org](https://ghostbin.org)",
       "[0-1.party](https://0-1.party)",
@@ -13,12 +13,14 @@
     "code runners as well as paste": [
       "[ideone.com](https://ideone.com) _public list of recent code snippets_",
       "[codepen.io](https://codepen.io)",
-      "[codepad.org](http://codepad.org) _public list of recent code snippets_"
+      "[codepad.org](http://codepad.org) _public list of recent code snippets_",
+      "[controlc.com](https://controlc.com) _pastes indexed by google_",
+      "[repl.it]"
     ],
     "Specialty": [
       "[write.as](https://write.as/new)",
       "[https://www.paste.sh](https://www.paste.sh)",
-      "[termbin.com](http://termbin.com) example http://termbin.com/5opq paste from terminal using `echo test | nc termbin.com 9999`"
+      "[termbin.com](http://termbin.com) example _termbin.com/5opq_ paste from terminal using `echo test | nc termbin.com 9999`"
     ],
     "Zeronet-based Pastebins": [
       "[NullPaste](http://169.239.182.36:43110/1MgHVPCE1ve6QfKrgsqCURzRj72HrRWioz)",
@@ -35,7 +37,7 @@
       "[zerobin.i2p](http://zerobin.i2p)"
     ],
     "UNCATEGORIZED": {
-      "License   ": "[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)"
+      "License": "[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)"
     }
   }
 }
